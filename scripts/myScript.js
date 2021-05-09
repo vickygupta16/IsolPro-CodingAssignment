@@ -17,11 +17,11 @@ function setHotDeals() {
   var html = "";
   html += "<h2>Hot Deals</h2><div class='row'>";
   const hotDealsSource = [
-    "../images/product1.jpg",
-    "../images/product2.jpg",
-    "../images/product3.jpg",
-    "../images/product4.jpg",
-    "../images/product5.png",
+    "images/product1.jpg",
+    "images/product2.jpg",
+    "images/product3.jpg",
+    "images/product4.jpg",
+    "images/product5.png",
   ];
   const hotDealsCategory = [
     "Beauty & Health",
@@ -76,11 +76,11 @@ function setNewArrivals() {
                 <button type='button' class='btn'>Games & Consoles</button>
             </div>`;
   const newArrivalsSource = [
-    "../images/product1.jpg",
-    "../images/product2.jpg",
-    "../images/product3.jpg",
-    "../images/product4.jpg",
-    "../images/product5.png",
+    "images/product1.jpg",
+    "images/product2.jpg",
+    "images/product3.jpg",
+    "images/product4.jpg",
+    "images/product5.png",
   ];
   const newArrivalsCategory = [
     "Beauty & Health",
@@ -130,12 +130,12 @@ function setNewArrivals() {
 function setPopularCategories() {
   var html = "";
   const popularCategoriesSource = [
-    "../images/featured1.jpg",
-    "../images/featured2.jpg",
-    "../images/featured3.jpg",
-    "../images/featured4.jpg",
-    "../images/featured5.jpg",
-    "../images/featured6.jpg",
+    "images/featured1.jpg",
+    "images/featured2.jpg",
+    "images/featured3.jpg",
+    "images/featured4.jpg",
+    "images/featured5.jpg",
+    "images/featured6.jpg",
   ];
   const popularCategoriesTitle = [
     "Tops & Sets",
@@ -173,7 +173,7 @@ function setAccessoriesAndParts() {
             <div class='row'>
                 <div class='col-4'>
                     <div>
-                        <img src='../images/product5.png' class='img-fluid bigImage'/>
+                        <img src='images/product5.png' class='img-fluid bigImage'/>
                         <p class='text-muted'>Automobiles</p>
                         <h6>Dummy Product Name</h6>
                         <p class='price'>$79.00</p>
@@ -182,12 +182,12 @@ function setAccessoriesAndParts() {
                 <div class='col-8'>
                     <div class='row'>`;
   const partsSource = [
-    "../images/featured1.jpg",
-    "../images/featured2.jpg",
-    "../images/featured3.jpg",
-    "../images/featured4.jpg",
-    "../images/featured5.jpg",
-    "../images/featured6.jpg",
+    "images/featured1.jpg",
+    "images/featured2.jpg",
+    "images/featured3.jpg",
+    "images/featured4.jpg",
+    "images/featured5.jpg",
+    "images/featured6.jpg",
   ];
   const partsCategory = [
     "Beauty & Health",
