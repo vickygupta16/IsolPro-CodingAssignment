@@ -1,8 +1,8 @@
 function setBannerImages() {
   const bannerSource = [
-    "/images/banner2.webp",
-    "/images/banner3.webp",
-    "/images/banner4.webp",
+    "../images/banner2.webp",
+    "../images/banner3.webp",
+    "../images/banner4.webp",
   ];
   var html = "";
   html += "<div class='row'>";
